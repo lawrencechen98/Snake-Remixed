@@ -9,7 +9,7 @@
 
 ##### The game has been turned into a 2 player versus game, in which two snakes appear on the game board. The objective of the game is to eat food to grow longer and "dominate" more of the playing field. If a snake crashes into the border of the game map, its own body, or the body of the opponent, that snake loses. The snake that is still alive loses.
 
-![Picture of Gameplay](../master/images/game1.jpg =250x)
+![Picture of Gameplay](../master/images/game1.jpg){:height="50%" width="50%"}
 
 
 ##### The game also introduces new "power up" food, which are colored white as shown below. The food, instead of making the snake longer, makes the snake who ate it significantly faster for a short period of time. This boost allows the owner of this power up to better obtain more food or maneuver to a position of advantage against the other snake. 
